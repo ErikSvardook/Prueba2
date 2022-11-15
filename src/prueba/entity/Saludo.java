@@ -32,4 +32,8 @@ public class Saludo {
     public void metodo1(){
         System.out.print("Soy el uno");
     }
+    
+    public void metodo2(){
+        System.out.print("Soy el dos");
+    }
 }
