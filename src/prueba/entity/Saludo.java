@@ -5,9 +5,31 @@
 package prueba.entity;
 
 /**
- *
- * @author labso12
+
+━━━━━-╮
+
+╰┃ ┣▇━▇
+
+┃ ┃  ╰━▅╮
+
+╰┳╯ ╰━━┳╯F A S I L I T O
+
+╰╮ ┳━━╯ E L T U T O R I A L
+
+▕▔▋ ╰╮╭━╮
+
+╱▔╲▋╰━┻┻╮╲╱▔▔▔╲
+
+▏  ▔▔▔▔▔▔▔  O O┃
+
+╲╱▔╲▂▂▂▂╱▔╲▂▂▂╱
+
+▏╳▕▇▇▕ ▏╳▕▇▇▕
+
+╲▂╱╲▂╱ ╲▂╱╲▂╱
  */
 public class Saludo {
-    
+    public void metodo1(){
+        System.out.print("Soy el uno");
+    }
 }
