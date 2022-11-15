@@ -36,4 +36,9 @@ public class Saludo {
     public void metodo2(){
         System.out.print("Soy el dos");
     }
+    
+    public void metodo3(){
+        
+        System.out.println("soy el mas cabron ");
+    }
 }
